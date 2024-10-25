@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdibDw
-- 👀 I’m interested in .AI .paython
+- 👀 I’m interested in .data analyst AI .paython,
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
